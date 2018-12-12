@@ -25,3 +25,5 @@ function doPointlessComputationsWithBlocking() {
   pointlessComputationsButton.disabled = false;
   console.log(primes);
 }
+
+//test
